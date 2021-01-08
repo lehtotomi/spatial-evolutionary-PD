@@ -4,6 +4,7 @@ Deterministic spatial evolutionary prisoner's dilemma model in NetLogo
 How to use it?
 This model can be used in the NetLogo environment or in the NetLogo Web environment. 
 To use model in the NetLogo Web just go to NetLogo Web and use the Upload a Model button.
+However the performance in NetLogo Web seems to be poor and some features don't work correctly, but using it can give quick overview about this model. 
 
 The info tab of the model:
 ## WHAT IS IT?
